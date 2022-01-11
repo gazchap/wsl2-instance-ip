@@ -1,0 +1,11 @@
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\x64\Release\WSL2_Instance_IP.exe.config
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\x64\Release\WSL2_Instance_IP.exe
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\x64\Release\WSL2_Instance_IP.pdb
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\x64\Release\WSL2_Instance_IP.exe
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\x64\Release\WSL2_Instance_IP.pdb
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\x64\Release\WSL2_Instance_IP.csprojAssemblyReference.cache
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\x64\Release\WSL2_Instance_IP.exe.manifest
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\x64\Release\WSL2_Instance_IP.application
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\x64\Release\WSL2_Instance_IP.TrustInfo.xml
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\x64\Release\WSL2_Instance_IP.exe.manifest
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\x64\Release\WSL2_Instance_IP.application

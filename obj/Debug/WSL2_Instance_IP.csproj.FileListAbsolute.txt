@@ -1,0 +1,6 @@
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\Debug\WSL2_Instance_IP.exe.config
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\Debug\WSL2_Instance_IP.exe
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\bin\Debug\WSL2_Instance_IP.pdb
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\Debug\WSL2_Instance_IP.csprojAssemblyReference.cache
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\Debug\WSL2_Instance_IP.exe
+D:\OneDrive\Work\Visual Studio\com.gazchap.wsl2instanceip\WSL2_Instance_IP\obj\Debug\WSL2_Instance_IP.pdb
